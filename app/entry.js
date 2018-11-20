@@ -1,4 +1,4 @@
-// ----- HTMLに組み込まれるJavaScriptファイル -----
+// ----- HTMLに組み込まれるJavaScriptファイル(ここのコードがwebpackで圧縮される) -----
 
 'use strict';
 
